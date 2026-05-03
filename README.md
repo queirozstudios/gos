@@ -1,2 +1,1 @@
-# gos
-game old school
+# Game Old School
